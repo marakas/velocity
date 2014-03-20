@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E404006B-9699-43B1-A7FC-755EF303E82F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DiracAudioPlayerExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEA7CCBB-835B-44BC-89EF-0FAB49482C32</key>
+		<string>https://github.com/marakas/velocity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DiracAudioPlayer iPod Library Example/DiracAudioPlayerExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEA7CCBB-835B-44BC-89EF-0FAB49482C32</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/marakas/velocity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEA7CCBB-835B-44BC-89EF-0FAB49482C32</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEA7CCBB-835B-44BC-89EF-0FAB49482C32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>velocity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
